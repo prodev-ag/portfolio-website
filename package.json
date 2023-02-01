@@ -4,6 +4,7 @@
   "private": true,
   "description": "My portfolio website",
   "author": "ag <prodev.ag@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
